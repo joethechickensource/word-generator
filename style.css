@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(227, 237, 255);
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#titlemod {
+    background: cornflowerblue;
+    padding: 1%;
+    text-align: center;
+}
+
+#stuff {
+    text-align: center;
+}
+
+#stuff #desc {
+    background: cornflowerblue;
+    padding: 1%;
+    width: 40%;
+    margin-left: 30%;
+    border-radius: 400px;
+}
+
+#stuff #settings {
+    background: cornflowerblue;
+    padding: 1%;
+    width: 40%;
+    margin-left: 30%;
+    border-radius: 400px;
+}
+
+button {
+    border: 0;
+    background-color: cornflowerblue;
+    border-radius: 400px;
+    padding: 1%;
+    width: 10%;
+}
